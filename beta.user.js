@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        AposBotBeta
-// @namespace   AposBotBeta
+// @name        ZzakiLlo
+// @namespace   ZzakiLlo
 // @include     http://agar.io/
 // @version     3.4
 // @grant       none
